@@ -1,3 +1,3 @@
 # gardeningserviceapp
 
-Developed a new app to make advirtising easier.
+Developed a new app to make advirtising easier. 
