@@ -57,8 +57,7 @@ San Diego, California
 ## 📸 Pictures
 
 > _Here are some pictures._  
-_(Add media to this section or link a folder/gallery)_
-![Adobe Express - file](https://github.com/user-attachments/assets/3acd8b06-764e-4060-b04f-0ba5e786c320)
+![about](https://github.com/user-attachments/assets/faebacf9-96ce-46df-8205-4eede459d51e)
 
 ---
 
