@@ -1,4 +1,4 @@
-# 🧠 Fuwaniziqu – Smart Anti-Spam SaaS Platform
+# 🧠 Fuwaniziqu – Smart Anti-Spam SaaS AI Platform
 
 **Fuwaniziqu** is a Software as a Service (SaaS) company based in **San Diego, California**, offering intelligent, automated solutions to help users clean spam, coordinate device activity, and understand digital behavior patterns.
 
