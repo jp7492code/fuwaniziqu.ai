@@ -7,7 +7,6 @@
 ## 🕒 Schedule
 
 **Mon–Fri:** 8:00 AM – 5:00 PM  
-📞 Phone: (858) 205-0034  
 📧 Email: jpham799@gmail.com  
 
 ---
