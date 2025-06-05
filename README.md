@@ -47,8 +47,6 @@ San Diego, California
 **Open Hours:**  
 - Monday – Friday: 9:00 AM – 5:00 PM  
 - Saturday – Sunday: Closed  
-
-📞 Call: (858) 205-0034  
 📧 Email: jpham799@gmail.com  
 
 ---
